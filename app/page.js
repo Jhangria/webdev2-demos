@@ -5,8 +5,32 @@ export default function Page() {
       <h1>Web Dev 2 Demos</h1>
       <p>Demos for Web Dev 2.</p>
       <li>
-        <Link href="/week-2">Week 2 Demos</Link> 
+        <Link href="/week-2">Week 2 Demos</Link>
       </li>
+      <li>
+        <Link href="/week-3">Week 3 Demos</Link> 
+      </li>
+      <li>
+        <Link href="/week-2">Week 4 Demos</Link>
+      </li>
+      <li>
+        <Link href="/week-3">Week 5 Demos</Link> 
+      </li>
+      <li>
+        <Link href="/week-2">Week 6 Demos</Link>
+      </li>
+      <li>
+        <Link href="/week-3">Week 7 Demos</Link> 
+      </li>
+      <li>
+        <Link href="/week-2">Week 8 Demos</Link>
+      </li>
+      <li>
+        <Link href="/week-3">Week 9 Demos</Link> 
+      </li>
+      <li>
+        <Link href="/week-2">Week 10 Demos</Link>
+      </li>      
     </div>
   );
 }
