@@ -11,10 +11,10 @@ export default function Page() {
         <Link href="/week-3">Week 3 Demos</Link> 
       </li>
       <li>
-        <Link href="/week-2">Week 4 Demos</Link>
+        <Link href="/week-4">Week 4 Demos</Link>
       </li>
       <li>
-        <Link href="/week-3">Week 5 Demos</Link> 
+        <Link href="/week-5">Week 5 Demos</Link> 
       </li>
       <li>
         <Link href="/week-2">Week 6 Demos</Link>
