@@ -1,0 +1,5 @@
+[
+    { "id": 1, "name": "Shnukems", "description": "Adorable", "imageUrl": "/images/dog.jpg" },
+    { "id": 2, "name": "Blackie", "description": "Friendly", "imageUrl": "/images/dog1.jpg" },
+    { "id": 3, "name": "Rex", "description": "Fierce", "imageUrl": "/images/dog2.jpg" }
+]
